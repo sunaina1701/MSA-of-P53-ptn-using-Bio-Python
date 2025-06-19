@@ -70,7 +70,9 @@ ClustalW / MUSCLE
 ## 👩‍🔬 Author
 
 Sunayana Chowdary Vunnam
+
 MSc Biotechnology, Kakatiya University
+
 Passionate about computational biology and molecular analysis
 
 #MSA #Biopython #p53 #Homosapiens #proteinsequenceanalysis #ncbi 
